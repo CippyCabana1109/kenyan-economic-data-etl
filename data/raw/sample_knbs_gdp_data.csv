@@ -1,0 +1,41 @@
+Year,County,GDP_Value,GDP_Sector,Population,Unemployment_Rate
+2020,Nairobi,850.5,Services,4.5,12.3
+2020,Mombasa,320.2,Services,1.2,15.8
+2020,Kisumu,180.7,Services,0.9,18.2
+2020,Nakuru,165.3,Agriculture,2.1,14.5
+2020,Uasin Gishu,145.8,Agriculture,1.8,11.7
+2020,Kiambu,135.6,Manufacturing,2.4,13.9
+2020,Meru,95.4,Agriculture,1.6,16.3
+2020,Kakamega,85.2,Agriculture,2.3,17.8
+2020,Kilifi,75.9,Services,1.4,19.4
+2020,Machakos,68.7,Agriculture,1.5,15.2
+2021,Nairobi,920.3,Services,4.7,11.8
+2021,Mombasa,345.6,Services,1.3,14.9
+2021,Kisumu,195.8,Services,1.0,17.3
+2021,Nakuru,178.9,Agriculture,2.2,13.8
+2021,Uasin Gishu,158.4,Agriculture,1.9,10.9
+2021,Kiambu,148.7,Manufacturing,2.5,13.2
+2021,Meru,105.6,Agriculture,1.7,15.7
+2021,Kakamega,92.3,Agriculture,2.4,16.9
+2021,Kilifi,82.1,Services,1.5,18.7
+2021,Machakos,74.5,Agriculture,1.6,14.6
+2022,Nairobi,998.7,Services,4.9,10.5
+2022,Mombasa,375.8,Services,1.4,13.2
+2022,Kisumu,212.4,Services,1.1,16.1
+2022,Nakuru,194.6,Agriculture,2.3,12.7
+2022,Uasin Gishu,172.9,Agriculture,2.0,9.8
+2022,Kiambu,163.8,Manufacturing,2.6,12.1
+2022,Meru,116.8,Agriculture,1.8,14.8
+2022,Kakamega,101.7,Agriculture,2.5,15.6
+2022,Kilifi,89.3,Services,1.6,17.2
+2022,Machakos,81.2,Agriculture,1.7,13.8
+2023,Nairobi,1085.2,Services,5.1,9.2
+2023,Mombasa,408.9,Services,1.5,11.8
+2023,Kisumu,230.7,Services,1.2,14.9
+2023,Nakuru,211.8,Agriculture,2.4,11.6
+2023,Uasin Gishu,188.6,Agriculture,2.1,8.7
+2023,Kiambu,180.3,Manufacturing,2.7,10.9
+2023,Meru,129.4,Agriculture,1.9,13.5
+2023,Kakamega,112.8,Agriculture,2.6,14.3
+2023,Kilifi,97.6,Services,1.7,15.8
+2023,Machakos,88.9,Agriculture,1.8,12.4

@@ -136,12 +136,13 @@ plugins/
 # Google Cloud
 service-account-key.json
 
-# Data files
-*.csv
-*.json
-*.parquet
-*.xlsx
-*.xls
+# Data files (keep structure but ignore content)
+# data/raw/*.csv
+# data/transformed/*.csv
+
+# Allow sample data files for demo
+!data/raw/sample_*.csv
+!data/transformed/sample_*.csv
 
 # IDE
 .vscode/
